@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+pki_fichiers/
+.DS_Store
+.vscode/

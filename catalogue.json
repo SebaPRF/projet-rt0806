@@ -1,0 +1,14 @@
+{
+  "produits": [
+    {"id": 1,  "nom": "Ordinateur portable",   "prix": 899.0, "stock": 5},
+    {"id": 2,  "nom": "Souris sans fil",        "prix": 25.0,  "stock": 40},
+    {"id": 3,  "nom": "Clavier mecanique",      "prix": 75.0,  "stock": 20},
+    {"id": 4,  "nom": "Ecran 24 pouces",        "prix": 199.0, "stock": 10},
+    {"id": 5,  "nom": "Casque audio",           "prix": 59.0,  "stock": 15},
+    {"id": 6,  "nom": "Webcam HD",              "prix": 45.0,  "stock": 12},
+    {"id": 7,  "nom": "Cle USB 64Go",           "prix": 12.0,  "stock": 100},
+    {"id": 8,  "nom": "Disque SSD 1To",         "prix": 89.0,  "stock": 25},
+    {"id": 9,  "nom": "Tapis de souris",        "prix": 9.0,   "stock": 80},
+    {"id": 10, "nom": "Lampe de bureau",        "prix": 29.0,  "stock": 30}
+  ]
+}
